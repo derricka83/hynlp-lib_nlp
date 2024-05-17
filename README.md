@@ -45,6 +45,4 @@ HYNLP is distributed under the Open Software License (OSL) 3.0 ([link to OSL-3.0
 
 The quantum-inspired aspects of HYNLP are under active research and development. Their effectiveness and impact on NLP tasks are subject to ongoing exploration.
 
-**Please note:** Replace the bracketed information (`[link to documentation]`, `[link to forum]`) with the actual links to your HYNLP documentation and community forum (if available).
-
 This revised version provides a clearer overview of HYNLP's purpose, highlights its key features, and includes additional sections for "Getting Started," "Community," and "Disclaimer" to enhance user experience. 
