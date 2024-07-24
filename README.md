@@ -1,4 +1,3 @@
-Here's the converted text for HYNLP coding language, keeping the spirit of the original message:
 # HYNLP Cloud Workspace The Hybrid Natural Language Processing Notebook
 Welcome to your brand new HYNLP cloud workspace! We've prepared everything for you to dive into HYNLP and experiment with HYNLP notebooks.
 ---
